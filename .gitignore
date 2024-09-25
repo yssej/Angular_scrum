@@ -1,0 +1,56 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Usefull file
+src/assets/*
+!src/assets/images/*
+!src/assets/addUser.png
+!src/assets/ava3.webp
+!src/assets/profile.png
+!src/assets/Projet-creation.webp
+!src/assets/imageDefault.jpg
+!src/assets/Outils-Gestion-de-projet.png
+!src/assets/Projet-creation.webp
+!src/assets/Projet-creation.webp
+!src/assets/Logo_DSI_Final_fotsy.png
+!src/assets/Logo_hd_MEF-PETIT-2.png
