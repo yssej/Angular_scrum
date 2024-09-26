@@ -48,7 +48,7 @@ export class NavbarComponent implements OnInit {
   fonctionnalitesBacklog:Fonctionnalite[];
   backlogsProjet:Backlog[];
   projetSelected:Projet;
-  private serverUrl = 'http://localhost:8081/socket'
+  private serverUrl = 'https://localhost:8081/socket'
   title = 'WebSockets chat';
   private stompClient;
 
